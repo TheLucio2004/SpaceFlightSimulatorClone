@@ -1,0 +1,13 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+UserSettings/
+
+# Visual Studio
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
