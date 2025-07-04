@@ -1,13 +1,57 @@
-# Unity
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
-UserSettings/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
-# Visual Studio
+# MemoryCaptures
+/[Mm]emoryCaptures/
+# Recordings
+/[Rr]ecordings/
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+
+# Auto-generated test scenes
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Visual Studio / IDE files
+.vs/
 *.csproj
 *.sln
 *.user
 *.suo
 *.tmp
+*.pidb
+*.mdb
+*.pdb
+*.opendb
+*.VC.db
+
+# Rider
+*.DotSettings.user
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Gradle
+.gradle/
+
+# Unity packages & cache
+Packages/
+
+# Built packages
+*.apk
+*.aab
+*.unitypackage
+
+# Addressables temp / state
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/Addressables_Temp*
+/Assets/StreamingAssets/aa*
+
+# Blender backup
+*.blend1
+*.blend1.meta
